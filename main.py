@@ -21,3 +21,5 @@ if __name__ == '__main__':
 # Then you've got a "Git" tab at the bottom and a "Commit" tab on the left hand side.
 # the add a .gitignore file to the root direct where the main.py file is
 # NOTE if you've already added some of the files that you didn't want to add
+
+# then Help -> Manage Remotes... or Git -> Manage Remotes...
